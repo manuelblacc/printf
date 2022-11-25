@@ -2,7 +2,7 @@
 
 /**
  * get_precision - cal the precision
- * @format: Formatted string 
+ * @format: Formatted string
  * @i: list of all arguments
  * @i: list to be printed
  * @list: list of arguments
